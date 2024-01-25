@@ -9,6 +9,7 @@ O trabalho consiste em construir um Dashboard com dados de vendas, Custo, Margem
 Para a criação desse Dashboard, foi necessário realizar a modelagem de dados, visto que o dados vieram de fontes distintas em quatro arquivos separados
 
 O Dashboard foi criado para responder as perguntas abaixo:
+
 1-Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata.
 
 2-Quais mercados tiveram o maior custo médio de envio dos produtos vendidos? Use um gráfico treemap.
