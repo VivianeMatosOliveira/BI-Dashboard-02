@@ -8,6 +8,9 @@ O trabalho consiste em construir um Dashboard com dados de vendas, Custo, Margem
 
 Para a criação desse Dashboard, foi necessário realizar a modelagem de dados, visto que o dados vieram de fontes distintas em quatro arquivos separados
 
+![image](https://github.com/VivianeMatosOliveira/BI-Dashboard-Vendas-Custo-Margem-de-Lucro-e-KPI/assets/111525485/cdf7dac8-b1bd-4c59-86c9-4b7e3468f662)
+
+
 Foi necessário também utilizar expressões DAX para calcular as colunas LUCRO e MARGEM DE LUCRO
 
 O Dashboard foi criado para responder as perguntas abaixo:
